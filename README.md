@@ -10,10 +10,7 @@
   <a href="https://github.com/ERPNEXT-PAKISTAN">
     <img width="225" height="225" alt="Calculator Icon" src="https://img.icons8.com/fluent/240/calculator.png" />
 <!-- Small fixed size (preserves exact dimensions) -->
-<img src="https://github.com/user-attachments/assets/2368d9b6-f32f-44a0-9462-75675ee07b9b"
-     alt="image"
-     width="200" height="280"
-     style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.12); object-fit:cover;" />
+
 
   </a>
 </p>
