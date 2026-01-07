@@ -21,16 +21,16 @@
   <b>Sales Order | Sales Invoice | Purchase Order | Purchase Receipt | Payment Entry | Stock Entry</b>
 </p>
 
-<!-- Small visual row -->
+
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/combo-chart--v1.png" width="32" alt="combo chart"/> &nbsp;
-  <img src="https://img.icons8.com/fluency/48/pie-chart.png" width="32" alt="pie chart"/> &nbsp;
-  <img src="https://img.icons8.com/fluency/48/bar-chart.png" width="32" alt="bar chart"/> &nbsp;
-  <img src="https://img.icons8.com/fluency/48/data-in-both-directions.png" width="32" alt="data flow"/> &nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="32" alt="excel"/> &nbsp;
-  <img src="https://img.icons8.com/fluency/48/pdf.png" width="32" alt="pdf"/> &nbsp;
-  <img src="https://img.icons8.com/fluency/48/print.png" width="32" alt="print"/>
+  <img src="https://github.com/user-attachments/assets/2368d9b6-f32f-44a0-9462-75675ee07b9b"
+       alt="image"
+       width="220" height="340"
+       style="border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.12); object-fit:cover;" />
 </p>
+
+
+
 
 
 ---
