@@ -11,10 +11,10 @@
 
 <!-- KPI badges (uniform) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Revenue-%24125k-0ea5e9?style=for-the-badge&logo=google" alt="Sales Order" />
-  <img src="https://img.shields.io/badge/Orders-3.2k-0892ff?style=for-the-badge" alt="Sales Invoice" />
-  <img src="https://img.shields.io/badge/Avg%20Order%20Value-%2459-06b6d4?style=for-the-badge" Purchase Invoice" />
-  <img src="https://img.shields.io/badge/Conversion-2.8%25-00c853?style=for-the-badge" alt="Payment Entry" />
+  <img src="https://img.shields.io/badge/Sales Order-%24125k-d909af?style=for-the-badge&logo=google" alt="Sales Order" />
+  <img src="https://img.shields.io/badge/Sales Invoice-3.2k-d9d209?style=for-the-badge" alt="Sales Invoice" />
+  <img src="https://img.shields.io/badge/Purchase%20Invoice%20Value-%2459-d9d209?style=for-the-badge" Purchase Invoice" />
+  <img src="https://img.shields.io/badge/Payment Entry-2.8%25-d909af?style=for-the-badge" alt="Payment Entry" />
 </p>
 
 <p align="center">
