@@ -536,7 +536,7 @@ frappe.ui.form.on("Expense Claim", {
 
 ##### Contact
 <p align="center">
-  <img src="https://github.com/ERPNEXT-PAKISTAN.png" width="96" height="96" alt="Taimoor"
+  <img src="https://github.com/ERPNEXT-PAKISTAN.png" width="110" height="150" alt="Taimoor"
        style="border-radius:50%; object-fit:cover; display:block; border:3px solid rgba(255,255,255,0.95); box-shadow:0 6px 18px rgba(0,0,0,0.25);" />
 </p>
 
