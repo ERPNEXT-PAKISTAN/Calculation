@@ -136,23 +136,5 @@ END:VCARD
   <img src="https://img.shields.io/badge/Conversion-2.8%25-00c853?style=for-the-badge" alt="Conversion" />
 </p>
 
-<p align="center">
-  <b>Analyze, View & Export Your Reports Easily</b>
-</p>
-
-<!-- Action buttons (links) -->
-<p align="center">
-  <a href="#reports" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/View%20Report-➡️-0892ff?style=for-the-badge" alt="view report"/>
-  </a>
-  &nbsp;
-  <a href="#export" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Download%20PDF-⬇️-00aaff?style=for-the-badge" alt="download pdf"/>
-  </a>
-  &nbsp;
-  <a href="#scripts" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Server%20Scripts-⚙️-06b6d4?style=for-the-badge" alt="server scripts"/>
-  </a>
-</p>
 
 
