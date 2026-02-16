@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="36" alt="analytics"/> 
-  <span style="vertical-align:middle"> Template </span>
+  <span style="vertical-align:middle"> Payment Entry on Sales Invoice </span>
   <img src="https://img.icons8.com/fluency/48/speed.png" width="36" alt="performance"/>
 </h1>
 
@@ -411,7 +411,10 @@ async function create_and_submit_payment_entry(frm, values) {
 
 
 > **Note:**  
-> Copy and use the JavaScript snippet above.
+> DocType : Sales Invoice
+> Module (for export) : Selling
+> Apply To : Form
+> Enabled : Yes
 
 ---
 
