@@ -411,10 +411,10 @@ async function create_and_submit_payment_entry(frm, values) {
 
 
 > **Note:**  
-> DocType : Sales Invoice
-> Module (for export) : Selling
-> Apply To : Form
-> Enabled : Yes
+> DocType : Sales Invoice    
+> Module (for export) : Selling    
+> Apply To : Form    
+> Enabled : Yes    
 
 ---
 
